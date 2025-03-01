@@ -1,0 +1,14 @@
+D:\.Net Alura\4 - consumindo API, gravando arquivos e utilizando o LINQ\ScreenSound-04\ScreenSound-04\obj\Debug\net6.0\ScreenSound-04.GeneratedMSBuildEditorConfig.editorconfig
+D:\.Net Alura\4 - consumindo API, gravando arquivos e utilizando o LINQ\ScreenSound-04\ScreenSound-04\obj\Debug\net6.0\ScreenSound-04.AssemblyInfoInputs.cache
+D:\.Net Alura\4 - consumindo API, gravando arquivos e utilizando o LINQ\ScreenSound-04\ScreenSound-04\obj\Debug\net6.0\ScreenSound-04.AssemblyInfo.cs
+D:\.Net Alura\4 - consumindo API, gravando arquivos e utilizando o LINQ\ScreenSound-04\ScreenSound-04\obj\Debug\net6.0\ScreenSound-04.csproj.CoreCompileInputs.cache
+D:\.Net Alura\4 - consumindo API, gravando arquivos e utilizando o LINQ\ScreenSound-04\ScreenSound-04\bin\Debug\net6.0\ScreenSound-04.exe
+D:\.Net Alura\4 - consumindo API, gravando arquivos e utilizando o LINQ\ScreenSound-04\ScreenSound-04\bin\Debug\net6.0\ScreenSound-04.deps.json
+D:\.Net Alura\4 - consumindo API, gravando arquivos e utilizando o LINQ\ScreenSound-04\ScreenSound-04\bin\Debug\net6.0\ScreenSound-04.runtimeconfig.json
+D:\.Net Alura\4 - consumindo API, gravando arquivos e utilizando o LINQ\ScreenSound-04\ScreenSound-04\bin\Debug\net6.0\ScreenSound-04.dll
+D:\.Net Alura\4 - consumindo API, gravando arquivos e utilizando o LINQ\ScreenSound-04\ScreenSound-04\bin\Debug\net6.0\ScreenSound-04.pdb
+D:\.Net Alura\4 - consumindo API, gravando arquivos e utilizando o LINQ\ScreenSound-04\ScreenSound-04\obj\Debug\net6.0\ScreenSound-04.dll
+D:\.Net Alura\4 - consumindo API, gravando arquivos e utilizando o LINQ\ScreenSound-04\ScreenSound-04\obj\Debug\net6.0\refint\ScreenSound-04.dll
+D:\.Net Alura\4 - consumindo API, gravando arquivos e utilizando o LINQ\ScreenSound-04\ScreenSound-04\obj\Debug\net6.0\ScreenSound-04.pdb
+D:\.Net Alura\4 - consumindo API, gravando arquivos e utilizando o LINQ\ScreenSound-04\ScreenSound-04\obj\Debug\net6.0\ScreenSound-04.genruntimeconfig.cache
+D:\.Net Alura\4 - consumindo API, gravando arquivos e utilizando o LINQ\ScreenSound-04\ScreenSound-04\obj\Debug\net6.0\ref\ScreenSound-04.dll
